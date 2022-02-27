@@ -1,0 +1,205 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The apologie of Thomas Bushell, of Enston in the county of Oxford, Esquire. By way of vindication from the supposed treason, or misprision of treason laid to his charge, or suggested against him by malicious persons aiming at his life and fortune; together with the reasons of his absence, and right of his demands ...</title>
+            <author>Bushell, Thomas, 1594-1674.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78052</idno>
+            <idno type="STC">Wing B6239</idno>
+            <idno type="STC">ESTC R170179</idno>
+            <idno type="EEBO-CITATION">45097587</idno>
+            <idno type="OCLC">ocm 45097587</idno>
+            <idno type="VID">171199</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78052)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171199)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2567:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The apologie of Thomas Bushell, of Enston in the county of Oxford, Esquire. By way of vindication from the supposed treason, or misprision of treason laid to his charge, or suggested against him by malicious persons aiming at his life and fortune; together with the reasons of his absence, and right of his demands ...</title>
+                  <author>Bushell, Thomas, 1594-1674.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>Antwerp, :</pubPlace>
+                  <date>printed in the yeare of our Lord [1650]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication suggested by Wing.</note>
+                  <note>Imperfect: pages cropped with some loss of print.</note>
+                  <note>Reproduction of original in the Sutro Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bushell, Thomas, 1594-1674.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:171199:1" rendition="simple:additions"/>
+            <p>THE APOLOGIE OF <hi>THOMAS B<g ref="char:V">Ʋ</g>SHELL,</hi> Of <hi>Enston</hi> in the County of <hi>Oxford,</hi> Eſquire.</p>
+            <p>By way of vindication from the ſuppoſed Treaſon, or miſpriſion of Treaſon laid to his charge, or ſuggeſted againſt him by mali<g ref="char:EOLhyphen"/>cious perſons aiming at his life and fortune; toge<g ref="char:EOLhyphen"/>ther with the reaſons of his abſence, and right of his Demands.</p>
+            <p>Dedicated to thoſe Honourable perſons in the Parliament, Counſell of State, and High Court of Juſtice, who are lovers of their Coun<g ref="char:EOLhyphen"/>trey, and covet to do, as they would be done unto.</p>
+            <p>
+               <hi>ANTWERP,</hi> Printed in the Yeare of our Lord</p>
+         </div>
+      </front>
+      <body>
+         <div type="apology">
+            <pb facs="tcp:171199:2"/>
+            <head>The Apologie of <hi>Thomas Buſhell,</hi> of <hi>Enſton</hi> in the County of <hi>Oxford,</hi> Eſquire,</head>
+            <opener>
+               <salute>My Lords and Gentlemen,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">D</seg>Ivine Providence having freed me from the Gunſhot of a malicious purſute, it were more than madneſſe in me to come againe before the mouth of a Cannon, where my e<g ref="char:EOLhyphen"/>nemies are known to give fire, and their eyes levelling at my reputation, life, and fortune, but leſt their cruelty ſhould ſo far exaſperate the treaſon laid to my charge (as to condemne me before hand) I ſhall by your favours, ſignifie herein, a true and breif demonſtrations of my tranſactions, both how farre I am guilty, and for what cauſe, and wherein I have been abu<g ref="char:EOLhyphen"/>ſed; as if I were at the high Trebunall where all muſt give an account, that ſo comparing the weight of my reaſons, with their accuſations, I may by your wiſdomes be either acquitted or condemned.</p>
+            <p>In the firſt place, having long ſince had the happineſſe of a very neere re<g ref="char:EOLhyphen"/>lation to that famous Philoſopher the late Lord Chancellor <hi>Bacon,</hi> and be<g ref="char:EOLhyphen"/>ing inſtructed by the influence of his knowledge in the theorick of the My<g ref="char:EOLhyphen"/>norall profeſſion, I reſolved to betake my ſelf to that innocent calling, and to make the practick part of direction, my companion to retirdnes, for the glorifying the God of Natute, by ſuch publick deſigns, as well as by my private devotions, having formerly had the perplenities of a grieved fpirit, for the grand ſhate my youthes follies had purchaſed in this worlds rebelli<g ref="char:EOLhyphen"/>on, in proſecution whereof, having obtained the honour to be his Maje<g ref="char:EOLhyphen"/>ſties ſworn ſervant, and farmer of his highneſſe Royall, and ſo by con<g ref="char:EOLhyphen"/>ſequence bound to obey his commands, took an opertunity to acquaint him with the affection I had thereunto, together with the production of pro<g ref="char:EOLhyphen"/>fit, and honour it might bring to this Nation, if diligently perſued by men of experience and free-borne minds, who would only reſigne the ſuc<g ref="char:EOLhyphen"/>ceſſe to the will of the all-diſpoſing power; and upon the reſult of our diſ<g ref="char:EOLhyphen"/>courſe, I was at my own charge to cut through the Rocks of five ſeverall-Mountains, at the loweſt levell for a tryall, whence if Providence ſhould ſweeten my labours with quantity of Silver, his Majeſty aſſured me under his ſigne Manuell, I ſhould have the aſſiſtance of his Mint, to pay the mi<g ref="char:EOLhyphen"/>nor with his own Coyne, which his Royall Clemency performed like the King of the Meads, and Perſians, notwithſtanding I had the oppoſition of his whole Councell at a publick audience.</p>
+            <p>This high favour of his to the Common good, as alſo to me who had no other inheritance than the birthright of a younger Brother did double ob<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb n="2" facs="tcp:171199:3"/>that his neceſſities in War required my ſervice, wherefore I ſhould forbear the voyage, and ſhare with him in the ſufferings of theſe Commotions, which I willingly obeyed, with an alacrity not yet repented of, and fin<g ref="char:EOLhyphen"/>ding too apparently that his cauſe was more betrayed by the treachery of ſome of his Cabinet Counſell, and their Agents, than by the hoſtile acti<g ref="char:EOLhyphen"/>ons of his open enemies, made me then take the boldneſſe to tell him the truth of my obſervations therein at large, and deſired him to give me leave to ſtand upon my own ſtrength, and to keep the Garriſon of Lundy at my own charge, promiſing him either to die in the place, or that it ſhould be the laſt Gariſon ſurrendred, and not then neither without (his Majeſties Conſent.)</p>
+            <p>Severall ſummons and attempts were made by ſhipping to ſtorme, or ſtarve it, but the one failing, and they fearing time might prevent the o<g ref="char:EOLhyphen"/>ther, the then Lord Generall <hi>Fairfax</hi> ſent a Letter by his Drummer, pro<g ref="char:EOLhyphen"/>miſing therein upon his Honour, that if I would come over Sea, and treat with him, and the Lord Viſcount <hi>Say</hi> and <hi>Seale,</hi> I ſhould have a ſafe conduct, if the propoſitions they made could not give me content, which were theſe, to take off my Delinquency, reſtore me to my Eſtate, and protect my perſon from an ill natured Creditor, untill I was in Actuall poſ<g ref="char:EOLhyphen"/>ſeſſion thereof, according to an Ordinance of Parliament made in that be<g ref="char:EOLhyphen"/>halfe.</p>
+            <p>And having obtained the Kings conſent thereunto, with a caution under his hand, that I ſhould not be over credulous of their vaine promiſes, which had made him great (only in his ſufferings) and would not diſcharge my debts, yet the beliefe I had of a Lord Generalls Honour ingaged, a Parli<g ref="char:EOLhyphen"/>aments Ordinance, and many of the Lord Viſcounts <hi>Sayes</hi> Letters to the ſame purpoſe, made me decline my Maſters advice, and truſt ſo much to the reallity of their Acts of honour, as I ſurrendred the Iſland accor<g ref="char:EOLhyphen"/>ding to their own deſires, with all things thereunto belonging.</p>
+            <p>But inſtead of having my Eſtate reſtored unto me, or my perſon pro<g ref="char:EOLhyphen"/>tected, I was preſently areſted by an uncharitable Creditor (even in the time of my treaty) and no relief for either Perſon, or Eſtate, notwith<g ref="char:EOLhyphen"/>ſtanding my dayly ſolicitations, and many interceſſions made by the Lord <hi>Say</hi> therein to acquit his engagement; which ignoble proceedings in per<g ref="char:EOLhyphen"/>ſons that pretend to Honor, did more perplex my grieved heart with ſorrow for want ofmy creditors ſatiſfaction, than to receive from you the ſentence of a fatall death.</p>
+            <p>Now for the Treaſon laid to my charge, and proved by witneſſes (as is reported) and wherein Colonell <hi>Andrewes,</hi> and Sir <hi>Iohn Gell,</hi> hath ſuffered, is of validity to condemne any man were he as innocent as a Saint; for no Negative being permitted, when the Affirmative is paſt, the party need not plead, but ſubmit himſelf to his hard deſtiny; and therefore I ſhall by way of ſatisfaction juſtifie to you, and the whole world, that I deſerve no more to ſuffer for what I am accuſed for, either in Conſenting, <gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+            <pb n="3" facs="tcp:171199:3"/>
+            <p>For were I perſonally preſent, I could prove the Iſle of Ely plot but meerly the ſnare to entrap the Cavaleers, and I feare me Captaine <hi>Holmes</hi> his neceſſities provoked him to Act in this Tragedy, by ſome hints he gave me and others of the imployment he had from ſome higher powers to that purpoſe, for I call God to witneſſe, I never heard of the Iſle of Ely plot from any other, but amongſt the diſcourſing Cameroes of him and his aſ<g ref="char:EOLhyphen"/>ſociate Maſter <hi>Bernard,</hi> in the preſence of Colonell <hi>Andrewes</hi> at the Mer<g ref="char:EOLhyphen"/>maid neer Grayes Inne Gate, and Maſter <hi>Bernard</hi> very well knowes when he revived it the ſecond time unto me at my own Chamber, and deſired my hand of conſent thereunto, I ſo much renounced it, that I never ſaw him after.</p>
+            <p>Neither did I ever ſpeake with Sir <hi>Iohn Gell</hi> or any other about any ſuch thing as is pretended, or he to me, but indeed I did Court Sir <hi>Iohn Gell</hi>'s acquaintance with hope of profit, to be my partner, if by his means I could procure the digging in the Earl of <hi>Rutlands</hi> mannor of <hi>Hadden?</hi> but his bro<g ref="char:EOLhyphen"/>ther giving me notice, that double the value of the herbage which I had offered his Lordſhip yearly, nor the price of the inheritance, could not in<g ref="char:EOLhyphen"/>vite him to have the Mines diſcovered in <hi>Hadden</hi> field, made me ſoon ſur<g ref="char:EOLhyphen"/>ceaſe my ſute, untill a man of greater power in the States imployment, might perſwade his honour to looke upon the publick trade of a Nation, as well as his own particular intereſt.</p>
+            <p>Whereupon I revived my former ſolicitations by letter to the then Lord Generall <hi>Fairfax,</hi> for my right of <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rticles, otherwiſe to take leave of my native country and travell; but receiving no other anſwer from his honour than that it was not in his power to performe it, and being ſuddenly after advertiſed of a plot laid by my adverſaries, to apprehend my perſon, that I might not goe to a Commiſſion for examining their accompts of above twenty thouſand pounds which they have already received out of my Eſtate; I then addreſſed my Letter to the Lord Preſident <hi>Bradſhaw</hi> offering to juſti<g ref="char:EOLhyphen"/>fie my actions againſt any pretended plots or conſpiracies ſuggeſted againſt me, ſo that I might have a protection for my perſon, according to the Lord Generalls agreement, but being not admitted an anſwer thereof, and ha<g ref="char:EOLhyphen"/>ving been informed my enemies intended to preſſe the Generall Engage<g ref="char:EOLhyphen"/>ment upon me, at the hearing of my cauſe, wherein as yet my Conſcience can no way be ſatisfied, I then obſcured my ſelf, and writ the true reaſons of my ſuddaine departure, which are alſo annexed.</p>
+            <p>I ſhall therefore trouble your patience no more than in ſome few words to my charge of intelligence to the Prince, who being told that I was turned Rogue, for petitioning the Houſe of Parliament with the title of Supreme Authority, did ſo much perplex my thoughts, knowing my heart not guilty of doing his highneſſe the leaſt injury, and the faithfull ſervice I had done his royall father, to the value of thirty thouſand pounds, acknowledg<g ref="char:EOLhyphen"/>ed under his majeſties own hand, for cloathing his Army, beſides the loſſe of ten thouſand pounds by ſea and land ſince theſe commotions began <gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ed
+<pb n="4" facs="tcp:171199:4"/>ſuch newes of the lines, as I had received from Captaine <hi>Holmet</hi> and his aſſociate Maſter <hi>Benſon,</hi> both which I gratefully rewarded, but this before any act of prohibition to the contrary was publiſhed.</p>
+            <p>Takeing it as granted for a generall rule ſince divine providence would not interpret the tranſgreſſions of Angels, nor men, to be ſin before a law preſcribed, the regality of humane reaſon I conceive ought not to im<g ref="char:EOLhyphen"/>pute treaſon to any before an Act eſtabliſhed to all, beſides it is not unknown to the whole State, that my chiefeſt intellect hath been a diligent lover of thoſe maneſcrip Hiſtories as concerned the preſent paſſages of States and Princes, ever ſince I had the deſernable knowledg of the Lord <hi>Bacons</hi> pre<g ref="char:EOLhyphen"/>diction to the revolution of Monarchy, by his ſencibillitie of a former Parliaments ſeverity on himſelf, ſo that if I have been more vigilent than o<g ref="char:EOLhyphen"/>thers in gleaning the Vinyard of theſe moderne times, for my future compa<g ref="char:EOLhyphen"/>nions in ſolitude, I hope your Charities will not meaſure my innocent in<g ref="char:EOLhyphen"/>deavours to deſerve death, ſince all ſave one Letter of newes, hath been as yet kept from the publique ſight of any, and the peruſall of the reſt at your ſervice.</p>
+            <p>But for any other adviſes, either before or ſince, I ſhall deſire no favour from you, if found guilty in the leaſt, (nay more) if any the pretended trea<g ref="char:EOLhyphen"/>ſons, or miſpriſions of treaſons, ſhall be proved by the depoſitions of any one witneſſe that beares the reputation of an honeſt man, I ſhall then ſubmit my ſelf, to the alternate fate of my miſ-fortune in the puniſhment of the fact; but if no other perſon can prove the crime, laid to my charge, than ſuch whoſe former perjuries for gaine (I fear hath been too late made manifeſt to the World) I hope you will not be guilty of my innocent blood, nor abridge me that right my Articles aſſures me to my Mynes and Cuſtomes, when your better thoughts may very well judge, that my deſignes in tewne were only to follow thoſe publique ſutes, and to ſtop the Complaints of my more than ſolicitous Creditors, and not to imbark my ſelf, after ſo much experi<g ref="char:EOLhyphen"/>ence of trouble, in a ſecond Delinquency with ſuch Knights of the Poſts, when common ſence makes me uncapiable of pardon or pity.</p>
+            <p>Or if unſearchable deſtiny, hath pre-ordain'd my diſſolution by ſuch wick<g ref="char:EOLhyphen"/>ed Witneſſes, whilſt I endeavoured the way to ſatisfie thoſe friends which gave me credit, and to advance the trade of a Nation, by the aſſiſtance of fo<g ref="char:EOLhyphen"/>rain Merchants. I ſhall only ſay I have performed the good King my ma<g ref="char:EOLhyphen"/>ſters Commands, to ſhare with him in his ſufferings here; and I doubt not to be partaker with him in glory hereafter, having forgiven the faults and fai<g ref="char:EOLhyphen"/>lings of my enſnarers, as I am confident his Majeſty did freely pardon and pray for his.</p>
+            <p>I ſhall not therefore deſire to leſſen a letter in the pronouncing your judg<g ref="char:EOLhyphen"/>ment, nor ſeek to mediate the manner of my death, although it conſignes me from the hurdle to the halter; For truly ſince I muſt die in your diſplea<g ref="char:EOLhyphen"/>ſures, any death that ſhall pleaſe you ſhall not diſpleaſe me; it being indiffe<g ref="char:EOLhyphen"/>rent whether the Fowls of the Air, or the Worms of the Earth, be partakers <gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> me of the crime as from ta<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb n="5" facs="tcp:171199:4" rendition="simple:additions"/>poor Orphans, and Widdows, both for the good of my foul, and quieting of my Conſcience, which is, that you would be pleaſed to hear the Cauſe now depending in your Court of Equity before I dye, that the manner how and when, each Creditor may be paid; may be ſet down, and ſetled by De<g ref="char:EOLhyphen"/>cree, according to any Deed of Truſt, and my bargain with Forein Marchants long ſince made for that purpoſe, otherwiſe the Authors of my death, may afterwards be the ruine of my friends, and cauſe the curſe of ingratitude to attend me in my grave, which one hour of your patience may decide: For if my Articles had been performed, and thoſe Law-ſutes, not forced upon me (I call God to witneſs) I had not troubled the converſation of any creature as a Companion, but the Libraries of the dead in ſome deſolate deſert: unles in way of recreation to direct Mynorall diſcoveries for the Common good; proteſting upon the faith of a Chriſtian I have no other heire to my affection than the reputation of a Gentleman, and the ambition of knowledge in the ſearch of natures ſecrets. And therefore let me intreat your charities to ſee my Eſtate reſtored according to my Articles, made with the then Lord Generall <hi>Fairfax,</hi> and Viſcount Lord <hi>Say</hi> and <hi>Seal,</hi> without forcing my Conſcience to take the Engagemet; will be ſo clear an evidence of your noble inclinations to Iuſtice, as the whole world cannot but take notice, it was my crime and not my Fortune revived your diſpleaſures againſt me (which being granted) I doe hereby promiſe upon the Faith of a Chriſtian to ſubmit my ſelf, under the execution of your ſentence, if within eighteen months, when theſe com<g ref="char:EOLhyphen"/>motions are over) I diſcover not ſo rich a Myne for Trade, and Treaſure in your owne Iudgments, as ſhall ranſom the error of my ſuppoſed treaſon, or procure an exchange, and this offer.</p>
+            <p>Although I am without any other power of your puniſhment, then what hath been already inflicted upon me by your late diſ-favours, being barr'd from the proſecution of the publick good I intended my Native Countrey by unlocking the new Treaſures of the Earth to ſupply her threating neceſſi<g ref="char:EOLhyphen"/>ties, making my friends to ſhun me like a plague-ſore, and my Enemies to re<g ref="char:EOLhyphen"/>joyce in my ruine, whilſt they enrich themſelves, with what the liberal hand of divine bounty had freely beſtowed, as a reward of my Induſtry, and my friends and debts unſatisfied, all theſe afflictions being placed to the ſad ſcore of my condition in Solitude. I hope there is no one amongſt you who de<g ref="char:EOLhyphen"/>ſires to retain the profeſſion of Chriſtianity, or hath the leaſt pulſe of Com<g ref="char:EOLhyphen"/>paſſion, beating in his veins, who will not deem this too great a burthen for humanity to bear, did not the pencill of holy Writ preſcribe me the ſweet<g ref="char:EOLhyphen"/>neſſe of hope, with the balm of patience, to overcome my oppreſſions, and alſo aſfures me the moſt perfect'ſt man knowes not his own ſoul, nor the proudeſt the certainty of his continuance.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>
+                     <hi>Maſter</hi> Buſhell's <hi>Letter to the Lord Generall</hi> Fairfax.</head>
+                  <opener>
+                     <salute>May it pleaſe your Excellency,</salute>
+                  </opener>
+                  <p>
+                     <gap reason="illegible" resp="#MURP" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                     <pb n="6" facs="tcp:171199:5"/>in the compaſſe of my Conditions) withdrawn, my ſix moneths protection given by your Excellency worn out in ſolicitation, and my perſon in conti<g ref="char:EOLhyphen"/>nuall danger of Areſts, by ſuch only who have deſigns by my reſtraint to foreſtall my future fortunes, which miſchief cannot fall ſingly upon me, but will in no ſmall meaſure concern the Commonwealth in the Minerall affairs. And therefore in want of my reſtoration to my right in Mines, and Cuſtoms of lead, diſcouraging my endeavors in new diſcoveries, and in want of convenient liberty to recover my rights, and purſue my ſervices in Mino<g ref="char:EOLhyphen"/>rall works, I muſt make uſe of my laſt Article with your Excellency to tra<g ref="char:EOLhyphen"/>vell, though not without much reluctancy at my diſapointment, to be an<g ref="char:EOLhyphen"/>ſwerable to my Country, Creditors, and relations by my juſt endeavours. And under this proteſtation, nevertheleſſe that I ſhall not intereſt my ſelfe afreſh in the continued quarrell, but ſeek to exerciſe my knowledg, and faculty in Mines in other parts, having not failed in mine own Coun<g ref="char:EOLhyphen"/>try by any cauſe imputable to my want of skill, or induſtry, or adventure. My Lord, however unfortunaate I am, I ſhall not abate of my profeſſion to be</p>
+                  <closer>
+                     <signed>Your Excellencies moſt humble Servant Tho: Buſhell.</signed>
+                     <dateline>
+                        <date>
+                           <hi>March the</hi> 6th. 1649.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>
+                     <hi>For the Right Honour<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ble the Lord Preſident</hi> Bradſhaw.</head>
+                  <opener>
+                     <salute>My Lord,</salute>
+                  </opener>
+                  <p>BEing informed that thoſe which procured the poſſeſſion of my Eſtate in the time of my Delinquency, do not only ſeeke to wreſt me out of it, by the power of their purſe and freinds, but likewiſe endeavour to ruine my reputation with the Parliaments, Army, and Counſell of State, by their ſcandalous Agents; and to that purpoſe have procured ſeverall warrants from your Lordſhip to ſecure my perſon, pretending ſome plot againſt the State, which I believe upon true examination, will prove to no other end but to make ſuch Authority their devices, for the better accompliſhing their wicked daſigns, againſt my life and fortune, as alſo to obſtruct my preſent liberty, that I might not goe to my Mines in <hi>Wales,</hi> to the executing of a Commiſſion for perfecting the accounts of twenty thouſand pounds be<g ref="char:EOLhyphen"/>tween us, hoping thereby to enjoy the continuall poſſeſſion of my Eſtate in the Mines, from me and my Creditors, without contradiction, although formerly aſſigned to Feoffees in truſt, for the payment of my juſt debts, due to Orphants, and Widdowes Be pleaſed therefore, my Lord, in way of charity and juſtice, to move that I may either be reſtored to my eſtate, according to the Articles made at the Rendition of <hi>Lundy;</hi> or my perſon freed from Areſts, untill I recover the ſame in a Court of Equity; and I ſhall upon ſight thereof appeare before the Counſell of State, or high Court of Iuſtice, to Vindicate the aſperſions laid upon my action, againſt all op<g ref="char:EOLhyphen"/>poſers, and ſubmit my ſelfe to their honourable cenſures, if upon juſt proof they find me guilty of any crime worthy of their diſpleaſures<g ref="char:punc">▪</g> ſo God
+<gap reason="missing" extent="1 page">
+                        <desc>〈1 page missing〉</desc>
+                     </gap>
+                  </p>
+               </body>
+            </floatingText>
+         </div>
+      </body>
+   </text>
+</TEI>
